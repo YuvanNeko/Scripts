@@ -1,4 +1,4 @@
-﻿^F1:: //ctrl + F!
+﻿^F1:: ;ctrl + F!
 send {Volume_down}
 return
 ^F2::
